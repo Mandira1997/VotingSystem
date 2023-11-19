@@ -1,3 +1,6 @@
 class Voter
 {
+	public static void main(String ars[])
+	{
+	}
 }
